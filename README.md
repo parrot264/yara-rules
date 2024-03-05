@@ -1,2 +1,2 @@
 # yara-rules
-yara-rules I created
+yara-rules I've created
